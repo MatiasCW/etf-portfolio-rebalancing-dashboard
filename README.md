@@ -8,7 +8,7 @@ The project uses Python for data processing, SQLite and SQL for structured data 
 
 ## Dashboard Preview
 
-![ETF Portfolio Rebalancing Dashboard](docs/dashboard_screenshot.png)
+![ETF Portfolio Rebalancing Dashboard](docs/dashboard_screenshot.PNG)
 
 ## Tools & Technologies
 
