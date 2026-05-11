@@ -10,11 +10,11 @@ The project uses Python for data processing, SQLite and SQL for structured data 
 
 ### Power BI Dashboard
 
-![Power BI ETF Portfolio Rebalancing Dashboard](docs/dashboard_screenshot.png)
+![Power BI ETF Portfolio Rebalancing Dashboard](docs/dashboard_screenshot.PNG)
 
 ### React/Tailwind Prototype
 
-![React ETF Portfolio Rebalancing Prototype](docs/react_app_screenshot.png)
+![React ETF Portfolio Rebalancing Prototype](docs/react_app_screenshot.PNG)
 
 ## Tools & Technologies
 
