@@ -1,0 +1,7 @@
+ticker,fund_name,asset_class,region,shares,target_weight
+XUU.TO,iShares Core S&P U.S. Total Market Index ETF,Equity ETF,United States,420,0.25
+VFV.TO,Vanguard S&P 500 Index ETF,Equity ETF,United States,95,0.15
+VCN.TO,Vanguard FTSE Canada All Cap Index ETF,Equity ETF,Canada,470,0.30
+VAB.TO,Vanguard Canadian Aggregate Bond Index ETF,Bond ETF,Canada,335,0.15
+CGL.TO,iShares Gold Bullion ETF,Commodity ETF,Global,145,0.10
+CASH,Cash,Cash,Cash,2500,0.05

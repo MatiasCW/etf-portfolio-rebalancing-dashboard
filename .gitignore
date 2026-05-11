@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# React / Node
+react-app/node_modules/
+react-app/dist/
+react-app/.env
+
+# Power BI temporary files
+*.tmp
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Optional: ignore local database if you do not want to upload it
+# sql/portfolio.db

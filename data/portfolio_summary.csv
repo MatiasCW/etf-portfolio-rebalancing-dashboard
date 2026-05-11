@@ -1,0 +1,7 @@
+ticker,fund_name,asset_class,region,shares,target_weight,latest_price,current_value,actual_weight,allocation_drift,target_value,rebalance_amount,suggested_action
+XUU.TO,iShares Core S&P U.S. Total Market Index ETF,Equity ETF,United States,420,0.25,73.9,31038.0006,0.323,0.073,24021.1751,-7016.8256,Sell
+VFV.TO,Vanguard S&P 500 Index ETF,Equity ETF,United States,95,0.15,179.42,17044.8998,0.1774,0.0274,14412.705,-2632.1948,Sell
+VCN.TO,Vanguard FTSE Canada All Cap Index ETF,Equity ETF,Canada,470,0.3,69.32,32580.3999,0.3391,0.0391,28825.4101,-3754.9898,Sell
+VAB.TO,Vanguard Canadian Aggregate Bond Index ETF,Bond ETF,Canada,335,0.15,22.92,7678.2,0.0799,-0.0701,14412.705,6734.505,Buy
+CGL.TO,iShares Gold Bullion ETF,Commodity ETF,Global,145,0.1,36.16,5243.2,0.0546,-0.0454,9608.47,4365.2701,Buy
+CASH,Cash,Cash,Cash,2500,0.05,1.0,2500.0,0.026,-0.024,4804.235,2304.235,Buy
